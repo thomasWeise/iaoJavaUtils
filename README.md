@@ -1,4 +1,4 @@
-# Bet-and-Run Strategies for Optimization
+# Java Utilities
 
 [<img alt="Travis CI Build Status" src="https://img.shields.io/travis/thomasWeise/iaoJavaUtils/master.svg" height="20"/>](https://travis-ci.org/thomasWeise/iaoJavaUtils/)
 
